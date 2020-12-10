@@ -4,7 +4,7 @@ My name is Gabriel Henrique. I'm working as a software developer since 2013 and 
 
 - 🔭 I’m currently working on [@Netshoes](https://github.com/netshoes)
 - 🌱 I’m currently learning Swift, SwiftUI, Combine and Mobile Application Development
-- 📫 You can contact on [LinkedIn](https://www.linkedin.com/in/gabrielhsp/)
+- 📫 You can contact me on [LinkedIn](https://www.linkedin.com/in/gabrielhsp/)
 - ⚡ Fun fact: I imitate voices from some famous persons in Brazil, such as Faustão.
 
 <img src="https://media.tenor.com/images/de00054c531a50c96c2782fda561e115/tenor.gif" alt="Faustão">
